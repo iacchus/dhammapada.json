@@ -9,7 +9,6 @@ with open(DHAMMAPADA_JSON_FILEPATH, "r") as dhammapada_json_file:
     dhammapada_json = json.load(dhammapada_json_file)
 
 keys = dhammapada_json.keys()
-
 random_choice = random.choice(list(keys))
 
 verse_numbers, verse = dhammapada_json[random_choice]
