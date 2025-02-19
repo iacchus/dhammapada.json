@@ -38,3 +38,15 @@ print(verse, signature, sep="\n\n")
 #
 #  — The Dhammapada, 370
 ```
+
+### files
+
+```
+.
+├── README.md
+├── dhammapada.f-max-muller.json
+├── dhammapada.json
+└── display-dhammapada.py
+
+1 directory, 4 files
+```
