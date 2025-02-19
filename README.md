@@ -12,7 +12,7 @@ generated with `./dhammapada-json.py`
 
 ### example script
 
-```
+```python
 #!/usr/bin/env python
 
 import json
